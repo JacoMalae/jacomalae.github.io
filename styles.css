@@ -1,0 +1,27 @@
+.body {
+    box-sizing: border-box;
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
+    color: khaki;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.sub-container {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sub-container p {
+    font-size: smaller;
+}
+
+.sub-container h2 {
+    font-size: 2rem;
+}
+
+.sub-container h3 {
+    font-size: 1rem;
+}
